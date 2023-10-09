@@ -1,2 +1,2 @@
 # latihan-branch
-## kebab itu nikmat
+## kebab itu lezat
